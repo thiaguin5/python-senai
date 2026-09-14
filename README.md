@@ -1,2 +1,2 @@
 # python-senai
-#Thiago Amaral
+Thiago Amaral
