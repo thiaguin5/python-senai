@@ -4,8 +4,8 @@ desconto = float (input ("Digite o desconto (%):  "))
 
 
 # Processameneto Computacional 
-Valor_desconto = preco * desconto / 100
-preco_final = preco - valor_desconto 
+valor_desconto = preco * desconto / 100
+valor_final = preco - valor_desconto 
 
 
 #Saida de Informações 
