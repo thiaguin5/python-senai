@@ -12,7 +12,7 @@ altura =float (input("qual a sua altura: "))
 
 #calculo de IMC
 imc = peso / (altura * altura )
-
+ 
 #condição
 if imc >= 18.5 :
     print ("peso normal")
