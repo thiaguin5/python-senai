@@ -42,9 +42,9 @@ while filme != "sair":
 
     filme = input("digite o filme ou digite 'sair' para encerrar: ")
 
-filme = input ("qual a classificação do filme? ")
+classificação = input ("qual a classificação do filme? ")
 
-if idade >= 12:
+if idade >= classificação :
    print("pode assitir")
 else:
    print("não pode assistir")
