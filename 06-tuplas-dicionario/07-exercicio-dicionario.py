@@ -18,8 +18,10 @@ alunos = {
     "Pedro": 18
 }
 
-for aluno in alunos:
-    if aluno >= 18
-    print("maior de idade ")
+
+#percorrendo o dicionario
+for aluno, idade in alunos.items():
+    if idade >= 18:
+        print(aluno, "maior de idade ")
     else:
-        print("menor de idade ")
+        print(aluno, "menor de idade ")
